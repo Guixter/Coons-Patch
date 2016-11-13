@@ -5,4 +5,4 @@ The idea is to build Coons Patches with Matlab.
 
 The code and the report are written in french.
 
-![alt tag](1_5.png)![alt tag](6_4.png)
+![Screenshot 1](1_5.png)![Screenshot 2](6_4.png)
